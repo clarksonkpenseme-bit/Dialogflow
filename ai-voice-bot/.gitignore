@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+
+# Logs
+logs/
+logs/*.txt
+
+# Runtime
+npm-debug.log*
+*.log
